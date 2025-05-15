@@ -1,4 +1,4 @@
-# sonar
+# Sonar
 # Sonar Rock vs Mine Classification
 
 This project uses a machine learning model to classify sonar signals as either rocks or mines. It is based on the UCI Sonar dataset and demonstrates building and evaluating a logistic regression model using Python and scikit-learn.
